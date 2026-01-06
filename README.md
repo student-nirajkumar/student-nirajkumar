@@ -76,7 +76,7 @@
 
   <tr>
     <td>
-      <a href="https://github.com/student-nirajkumar/Job-Application-System">
+      <a href="https://github.com/student-nirajkumar/Job_portal">
         <b>Job Application System</b>
       </a>
     </td>
