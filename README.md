@@ -10,7 +10,7 @@
   <a href="https://leetcode.com/u/Niraj_kk/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/nirajkumar5429_roy?tab=activity" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/nirajkumar5429_roy" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
@@ -50,8 +50,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=student-nirajkumar&theme=dark&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=student-nirajkumar&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=student-nirajkumar&theme=dark&count_private=true&cache_seconds=86400)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=student-nirajkumar&theme=dark&cache_seconds=86400)
 
 ---
 
@@ -59,6 +60,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
 ## 🔝 Top Contributed Repositories
 
 <table>
@@ -68,37 +70,22 @@
   </tr>
 
   <tr>
-    <td>
-      ⭐ <a href="https://github.com/student-nirajkumar/POTD_Leetcode"><b>POTD_Leetcode</b></a>
-    </td>
+    <td>⭐ <a href="https://github.com/student-nirajkumar/POTD_Leetcode"><b>POTD_Leetcode</b></a></td>
     <td align="center">DSA / LeetCode Daily</td>
   </tr>
 
   <tr>
-    <td>
-      <a href="https://github.com/student-nirajkumar/Job_portal">
-        <b>Job Application System</b>
-      </a>
-    </td>
+    <td><a href="https://github.com/student-nirajkumar/Job_portal"><b>Job Application System</b></a></td>
     <td align="center">MERN • Full Stack</td>
   </tr>
 
   <tr>
-    <td>
-      <a href="https://github.com/student-nirajkumar/Crypto-Trading-Platform">
-        <b>Crypto Trading Platform</b>
-      </a>
-    </td>
+    <td><a href="https://github.com/student-nirajkumar/Crypto-Trading-Platform"><b>Crypto Trading Platform</b></a></td>
     <td align="center">Spring Boot • Java</td>
   </tr>
 
   <tr>
-    <td>
-      <a href="https://github.com/student-nirajkumar/Food-Delivery-App">
-        <b>Food Delivery Web App</b>
-      </a>
-    </td>
+    <td><a href="https://github.com/student-nirajkumar/Food-Delivery-App"><b>Food Delivery Web App</b></a></td>
     <td align="center">MERN</td>
   </tr>
 </table>
-
