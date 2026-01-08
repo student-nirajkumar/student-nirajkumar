@@ -48,11 +48,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=student-nirajkumar&theme=dark&count_private=true&cache_seconds=86400)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=student-nirajkumar&theme=dark&cache_seconds=86400)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aditya301cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aditya301cs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya301cs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
